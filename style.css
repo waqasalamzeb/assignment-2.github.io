@@ -1,0 +1,301 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+html,body{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+.topnav{
+    background-color: #444;
+    height:4rem;
+    display: flex;
+    padding-left: 28rem;
+    padding-top: 1rem;
+   
+}
+.topnav a{
+    text-decoration: none;
+    color: white;
+    font-size:1.2rem;
+    margin-right:1.3rem;
+}
+.mainnav{
+    background-color: #1d1d1f;
+    height:4rem;
+    display: flex;
+    padding-left: 28rem;
+    padding-top: 1rem;
+
+}
+.mainnav{
+    position: fixed;
+    top: 0;
+   
+    width: 100vw;
+   
+    
+}
+.mainnav img{
+    width: 1.2rem;
+    height: 1.2rem;
+}
+.mainnav a{
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    margin-right: 4rem;
+    padding-left: 2rem;
+    color: #F5F5F7;
+    
+}
+.mainnav img{
+    margin-right: 3rem;
+    justify-content: center;
+   
+}
+.secondsec {
+  display: flex;
+  justify-content: center;
+ 
+    
+}
+.secondsec p{
+    font-size: 0.9rem;
+    word-spacing:0.4rem;
+}
+.secondsec h1{
+    font-size: 5rem;
+    padding-top: 5rem;
+   
+}
+.secondseccontent li{
+    font-size: 3rem;
+}
+
+.lastli{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+    color: violet;
+   margin-bottom: 10rem;
+   font-size: 2rem;
+   
+    
+   
+}
+.lastli a{
+    margin-right: 2rem;
+    color: #06c;
+    text-decoration: none;
+}
+.secondimg{
+    padding-top: 3rem;
+}
+.watchcount h3{
+    font-size: 5rem;
+    padding-top: 2rem;
+}
+.watchimg{
+    padding-top: 2rem;
+    width: 20rem;
+    height: auto;
+}
+.watchcount h4{
+    font-size: 3rem;
+    color: red;
+}
+.watchcount h5{
+    font-size: 3rem;
+}
+.watchcount a{
+    align-items: center;
+    font-size: 2rem;
+    text-decoration: none;
+}
+ .ipad{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+} 
+ .img1{
+     background-color: #E8D3E4;
+ }
+ .img1 h3{
+     font-size: 3rem;
+     color: red;
+     margin-bottom: 2rem;
+ }
+
+ 
+ 
+ .img1 p{
+     font-size: 3rem;
+     cursor: pointer;
+ }
+ .img1 li{
+    font-size: 1.5rem;
+    cursor: pointer;
+ }
+ .img2{
+     font-size: 3rem;
+     margin-top: 2rem;
+ }
+
+ .img2{
+     background-color: #FBFBFD;
+ }
+
+
+
+
+ .imac{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   margin-top: 5rem;
+} 
+
+ .imac1{
+     background-color:#FAFAFA;
+ }
+ .imac1 h3{
+     font-size: 4rem;
+ }
+ .imac1 p{
+     font-size: 2rem;
+ }
+ .imac1 a{
+   
+    justify-content: center;
+    margin-top: 2rem;
+    text-decoration: none;
+    color: #0368CD;
+   
+ }
+ .img1 h3{
+     font-size: 3rem;
+     color: red;
+     margin-bottom: 2rem;
+ }
+.
+
+ 
+ 
+ .img1 p{
+     font-size: 3rem;
+     cursor: pointer;
+ }
+ .img1 li{
+    font-size: 1.5rem;
+    cursor: pointer;
+ }
+ .img2{
+     font-size: 3rem;
+     margin-top: 2rem;
+ }
+
+ .img2{
+     background-color: #FBFBFD;
+ }
+ .fitlogo{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 5rem;
+     
+ }
+ .imacp p{
+     font-size: 2rem;
+ }
+ .imaca{
+     display: flex;
+     justify-content: center;
+     margin-top: 2rem;
+    
+ }
+ .imaca a{
+     margin-right: 2rem;
+     font-size: 1.4rem;
+     color: #0066CC;
+     text-decoration: none;
+ }
+
+
+ 
+ .card{
+     margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 6rem;
+   
+}
+.card1 h2{
+    margin-top: 5rem;
+    font-size: 3rem;
+}
+.card1 p{
+    font-size: 2rem;
+}
+.couple{
+    background-color: #0984e3;
+}
+.couple h2{
+    color: white;
+    font-size: 3rem;
+}
+.couple h4{
+    color: white;
+    font-size: 2rem;
+}
+.footer{
+    padding-left: 10rem;
+    background-color: #F5F5F7;
+    padding-right: 10rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footerli{
+    font-size: 1.3rem;
+    line-height: 2rem;
+    color: #8A8A8C;
+}
+.footerheadd{
+    margin-top: -5rem;
+}
+.lastp{
+    font-size: 1rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    line-height: 1.5rem;
+    background-color: #F5F5F7;
+   
+
+    
+}
+
+   
+
+
+ @media screen and (max-width:786px){
+     
+     .ipad{
+         flex-flow: column;
+     }
+     .imac{
+         flex-flow: column;
+     }
+     .card{
+         flex-flow: column;
+     }
+    
+ }
+
+
